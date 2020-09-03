@@ -6,3 +6,4 @@ Diego Fernando Pastas Mueses (dfpastasm@unal.edu.co)
 Denis Alexander Rodriguez Venegas (dearodriguezve@unal.edu.co)
 
 ### Lista de tareas
+![image-title-here](https://www.somagnews.com/wp-content/uploads/2020/04/75-e1586981465263.png){:class="img-responsive"}
